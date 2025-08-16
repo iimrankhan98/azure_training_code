@@ -2,10 +2,10 @@
 // A simple PHP script
 
 // Print a message
-echo "Hello, World!";
+echo "Welcome to Azure Cloud!";
 
 // Variables
-$name = "Imran";
+$name = "Imran Khan";
 $age = 26;
 
 // Concatenate and display
