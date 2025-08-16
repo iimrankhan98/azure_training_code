@@ -5,8 +5,8 @@
 echo "Hello, World!";
 
 // Variables
-$name = "John";
-$age = 25;
+$name = "Imran";
+$age = 26;
 
 // Concatenate and display
 echo "<br>My name is " . $name . " and I am " . $age . " years old.";
